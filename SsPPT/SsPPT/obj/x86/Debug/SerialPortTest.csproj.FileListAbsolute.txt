@@ -1,0 +1,30 @@
+E:\LearningPrj\C#Programming\Visual Studio 2010\SerialPortTest\SerialPortTest\obj\x86\Debug\SerialPortTest.Form1.resources
+E:\LearningPrj\C#Programming\Visual Studio 2010\SerialPortTest\SerialPortTest\obj\x86\Debug\SerialPortTest.Properties.Resources.resources
+E:\LearningPrj\C#Programming\Visual Studio 2010\SerialPortTest\SerialPortTest\obj\x86\Debug\SerialPortTest.csproj.GenerateResource.Cache
+E:\LearningPrj\C#Programming\Visual Studio 2010\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe
+E:\LearningPrj\C#Programming\Visual Studio 2010\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.pdb
+E:\LearningPrj\C#Programming\Visual Studio 2010\SerialPortTest\SerialPortTest\obj\x86\Debug\SerialPortTest.exe
+E:\LearningPrj\C#Programming\Visual Studio 2010\SerialPortTest\SerialPortTest\obj\x86\Debug\SerialPortTest.pdb
+E:\C#\串口通讯\SerialPortTest\SerialPortTest\SerialPortTest\obj\x86\Debug\SerialPortTest.exe
+E:\C#\串口通讯\SerialPortTest\SerialPortTest\SerialPortTest\obj\x86\Debug\SerialPortTest.pdb
+E:\C#\串口通讯\SerialPortTest\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.exe
+E:\C#\串口通讯\SerialPortTest\SerialPortTest\SerialPortTest\bin\Debug\SerialPortTest.pdb
+E:\C#\串口通讯\SerialPortTest\SerialPortTest\SerialPortTest\obj\x86\Debug\SerialPortTest.csprojResolveAssemblyReference.cache
+E:\C#\串口通讯\SerialPortTest\SerialPortTest\SerialPortTest\obj\x86\Debug\SerialPortTest.Form1.resources
+E:\C#\串口通讯\SerialPortTest\SerialPortTest\SerialPortTest\obj\x86\Debug\SerialPortTest.Properties.Resources.resources
+E:\C#\串口通讯\SerialPortTest\SerialPortTest\SerialPortTest\obj\x86\Debug\SerialPortTest.csproj.GenerateResource.Cache
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\SerialPortTest.exe
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\SerialPortTest.pdb
+E:\传感网课程设计\SerialPortTest\bin\Debug\SerialPortTest.exe
+E:\传感网课程设计\SerialPortTest\bin\Debug\SerialPortTest.pdb
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\SerialPortTest.csprojResolveAssemblyReference.cache
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\SerialPortTest.Form1.resources
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\SerialPortTest.Properties.Resources.resources
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\SerialPortTest.csproj.GenerateResource.Cache
+E:\传感网课程设计\SerialPortTest\bin\Debug\SerialPortTest.exe.config
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\Interop.ACTIVEXLib.dll
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\Interop.eawfctrlLib.dll
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\Interop.LCC11.dll
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\Interop.MsoEuro.dll
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\Interop.TASKLAUNCHLib.dll
+E:\传感网课程设计\SerialPortTest\obj\x86\Debug\SerialPortTest.csproj.ResolveComReference.cache
